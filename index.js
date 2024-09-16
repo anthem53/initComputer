@@ -7,6 +7,7 @@ list = {
     , "Git Bash" : "https://git-scm.com/downloads" 
     , "구글 원격 프로그램(주소창 메시지 확인)" : "./index.html?message=구글 원격 프로그램 다운받으셈. 팀뷰어 시간 제한 있어서 별로임."
     , "파일질라" : "https://www.filezilla.kr/"
+    , "Everything 설치 (F8로 단축키 지정하기)" : "https://www.voidtools.com/ko-kr/downloads/"
     ,"깃 초기 실행시 실행해야할 명령어" : "./gitCommand.html"
 }
 
