@@ -6,6 +6,7 @@ list = {
     , "스팀"  : "https://store.steampowered.com/about/"
     , "팀뷰어" : "https://www.teamviewer.com/ko/download/free-download-with-license-options/" 
     , "Git Bash" : "https://git-scm.com/downloads" 
+    ,"깃 초기 실행시 실행해야할 명령어" : "./gitCommand.html"
 }
 
 // <li class="list-group-item" ><a target='_blank' href="">팀뷰어</a></li>
